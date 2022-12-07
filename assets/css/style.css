@@ -1,0 +1,228 @@
+
+
+
+
+
+a{
+    text-decoration: none;
+}
+
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 112.5px;
+   
+
+}
+
+.nav-links{
+    display: flex;
+    align-items: center;
+}
+
+.nav-links a{
+    margin-right: 10px;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.header i{
+    display: flex;
+    align-items: center;
+
+}
+
+
+@media(max-width:900px){
+    .nav-links{
+        display: none;
+    }
+}
+.fa-bars{
+    display: flex;
+    font-size: 30px;
+    cursor: pointer;
+
+}
+
+
+/* İNTROSECTİON HİSSESİ BAŞLADI */
+
+.introsection{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 112.15;
+    font-weight: 700px;
+
+
+}
+.introsection .left-side h1{
+   font-size: 75px;
+   padding-top: 25px;
+
+}
+
+.introsection .left-side h1 span{
+ color:  #FF8A56;
+ font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 72px;
+line-height: 82px;
+letter-spacing: 2px;
+
+}
+
+.introsection h1{
+    color: #000000
+
+}
+
+.introsection right-side{
+    padding-top: 70px;
+
+}
+
+.introsection button{
+    margin-top: 20px;
+    
+}
+.introsection .left-side button{
+    background-color: #000000;
+    color: #fff;
+    font-size: 25px;
+    border-radius: 15px;
+    margin-right: 15px;
+    cursor: pointer;
+}
+.introsection .left-side a{
+    margin-right: 10px;
+    color: #000000;
+    
+}
+
+.introsection small{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 33px;
+color: #666666;
+}
+
+
+
+/* İNTROSECTİON HİSSESİ BİTDİ */
+
+/* turusted by hissesi başladı */
+
+
+
+.turusted-by-section h5{
+    text-align: center;
+    font-size: 18px;
+
+
+}
+.turusted-by-companies{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 70px;
+
+}
+
+.turusted-by-section{
+    padding: 77px 260px 0px;
+}
+
+
+/* turusted by hissesi bitdi */
+
+/*SERVİCES SECTİON HİSSESİ BAŞLADI  */
+
+.services-section h6{
+color: #FF5E69;
+    font-family: Roboto;
+font-size: 22px;
+font-weight: 700;
+line-height: 22px;
+letter-spacing: 4px;
+text-align: center;
+text-transform: uppercase;
+
+}
+.services-section h1{
+   text-align: center;
+   font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 54px;
+margin-top: 10px;
+    
+}
+ .services-cards{
+    display: flex;
+    justify-content: space-between;
+    
+
+ }
+ /* projects section başladı */
+ .projects-section{
+    display: flex;
+    flex-direction: column;
+    padding-left: 113px;
+
+ }
+ .projects-section h6{
+   text-transform: uppercase; 
+   font-weight: 700px;
+   font-size: 25px;
+   letter-spacing: 4px;
+   color: #FF5E69;
+ }
+ .view-all-projects{
+    display: flex;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /* projects section hissesi bitdi */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* SERVİCES SECTİON HİSSESİ BİTDİ */
+
+
+
